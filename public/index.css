@@ -35,7 +35,7 @@ header{
 }
 
 .logo:hover {
-    background-color: #19524d ;
+    background-color: #00ffea ;
 }
 
 .nav_links {
@@ -53,7 +53,7 @@ header{
 }
 
 .nav_links li a:hover{
-    color: #19524d;
+    color: #00ffea;
 
 }
 
@@ -71,7 +71,7 @@ header{
 }
 
 .contact:hover {
-    background-color: #19524d ;
+    background-color: #00ffea ;
 }
 
 .bg {
