@@ -167,10 +167,7 @@ main {
 .flexbox {
     margin-top: 50px;
     margin-bottom: 50px;
-    display: flex;
-    box-sizing: border-box;
-    flex-direction: row;
-    flex-wrap: wrap;
+
 }
 
 .flexboxcta {
