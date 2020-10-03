@@ -7,7 +7,7 @@ const data = {
         "name" : "Mr.Pichayut Intharat",
         "nickname" : "Rew",
         "sex" : "Male",
-        "education" : "Songphinongwittaya School",
+        "education" : "kabure  School",
         "date" : "Sunday 31st Janury 1999",
         "age" : "21 years",
         "nationality" : "Thai",
