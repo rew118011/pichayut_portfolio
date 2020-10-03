@@ -101,65 +101,51 @@ main {
 }
 
 .idx1 {
-    padding-top: 150px;
-    padding-left: 7.8%;
+
     color:#000000 ;
 
 }
 
 .idx2 {
-    padding-top: 10px;
-    padding-left: 7.8%;
+
     color:#000000 ;
 
-    line-height: 35px;
 }
 
 .ft {
     font-weight: 500;
     font-size: 16px;
     color: #000000;
-
     list-style: none;
     text-align: center;
     padding: 40px;
 }
 
 .abm {
-    padding-top: 10px;
-    padding-left: 7.8%;
-    margin-top: 50px;
+
     color:#000000 ;
 
 }
 
 .edt {
-    padding-top: 10px;
-    padding-left: 15%;
-    margin-top: 50px;
+
     color:#000000 ;
 
 }
 
 .exp {
-    padding-top: 10px;
-    padding-left: 105px;
-    margin-top: 50px;
+
     color:#000000 ;
 
 }
 
 .skill {
-    padding-top: 10px;
-    padding-left: 15%;
-    margin-top: 50px;
+ 
     color:#000000 ;
 }
 
 .cta {
-    padding-top: 10px;
-    padding-left: 7.8%;
-    margin-top: 50px;
+
     color:#000000 ;
 
 }
