@@ -18,8 +18,8 @@ const data = {
         "phone" : "0640848827",
         "email" : "614259040@webmail.npru.ac.th",
         "characteristic" : "Talk openly",
-        "hobbies" : "Listen to music, See movie, Betta fish farming, Learn more about your interests.",
-        "sport" : "Futsal",
+        "hobbies" : "Listen to music, See movie.",
+        "sport" : "Futball",
         "pets" : "dog",
         "attitude" : "Positive",
         "motto" : "When you stop advancing, you’ve already begun to retreat."
