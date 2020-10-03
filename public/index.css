@@ -3,14 +3,14 @@
 body {
     margin: 0;
     padding: 0;
-    background-color:#24252a;
+    background-color:#98eaf0;
 }
 
 li, a {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    color: #edf0f1;
+    color: #000000;
     text-decoration: none;
     list-style: none;
 }
@@ -26,7 +26,7 @@ header{
     padding: 9px 25px;
     font-size: 16px;
     font-weight: 820;
-    color: #24252a;
+    color: #000000;
     background-color: #79dfd6;
     border: none;
     border-radius: 50px;
@@ -62,7 +62,7 @@ header{
     padding: 9px 25px;
     font-size: 16px;
     font-weight: 720;
-    color: #24252a;
+    color: #000000;
     background-color: #79dfd6;
     border: none;
     border-radius: 50px;
@@ -75,7 +75,7 @@ header{
 }
 
 .bg {
-    background-image: url("https://images.unsplash.com/photo-1522332870908-7c428896fb25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+    background-image: url("https://image.dek-d.com/27/0546/1187/123338540");
     display: flex;
     box-sizing: border-box;
     background-size: cover;
@@ -103,7 +103,7 @@ main {
 .idx1 {
     padding-top: 150px;
     padding-left: 7.8%;
-    color:#ffffff ;
+    color:#000000 ;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
@@ -111,7 +111,7 @@ main {
 .idx2 {
     padding-top: 10px;
     padding-left: 7.8%;
-    color:#ffffff ;
+    color:#000000 ;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     line-height: 35px;
@@ -121,7 +121,7 @@ main {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    color: #edf0f1;
+    color: #000000;
     text-decoration: none;
     list-style: none;
     text-align: center;
@@ -132,7 +132,7 @@ main {
     padding-top: 10px;
     padding-left: 7.8%;
     margin-top: 50px;
-    color:#ffffff ;
+    color:#000000 ;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
@@ -141,7 +141,7 @@ main {
     padding-top: 10px;
     padding-left: 15%;
     margin-top: 50px;
-    color:#ffffff ;
+    color:#000000 ;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
@@ -150,7 +150,7 @@ main {
     padding-top: 10px;
     padding-left: 105px;
     margin-top: 50px;
-    color:#ffffff ;
+    color:#000000 ;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
@@ -159,7 +159,7 @@ main {
     padding-top: 10px;
     padding-left: 15%;
     margin-top: 50px;
-    color:#ffffff ;
+    color:#000000 ;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
@@ -168,7 +168,7 @@ main {
     padding-top: 10px;
     padding-left: 7.8%;
     margin-top: 50px;
-    color:#ffffff ;
+    color:#000000 ;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
